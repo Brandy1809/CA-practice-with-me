@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix CA Practice Copy",
+  "description": "CA Foundation exam practice copy with vintage paper aesthetics, interactive accounting tables, business law structuring, and objective MCQs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
